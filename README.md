@@ -13,4 +13,13 @@
 - `simple-interest.sh` – скрипт для расчета простых процентов  
 
 ## Контакты
-Email: mohida@example.com
+Email: mohidaodilbekova@gmail.com
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+
+## Author
+Mohida Odilbekova – Frontend Developer
